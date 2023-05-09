@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "React Router",
+    "questions": [
+      {
+        "question": "What is React Router?",
+        "answer": ""
+      },{
+        "question": "How does React Router work?",
+        "answer": ""
+      },{
+        "question": "Which package do we need to install to use React Router?",
+        "answer": ""
+      },{
+        "question": "Which component do we need to wrap our app in to use React Router?",
+        "answer": ""
+      },{
+        "question": "How are Links added to an app?",
+        "answer": ""
+      },{
+        "question": "How are3 reloads prevented?",
+        "answer": ""
+      },{
+        "question": "Who do <Link> components prevent?",
+        "answer": ""
+      },{
+        "question": "How are active links highlighted?",
+        "answer": ""
+      },{
+        "question": "How are dynamic urls handled?",
+        "answer": ""
+      },{
+        "question": "What are dynamic urls?",
+        "answer": ""
+      },{
+        "question": "How are dynamic urls enabled?",
+        "answer": ""
+      },{
+        "question": "How are url parameters extracted?",
+        "answer": ""
+      },{
+        "question": "What type of construct extracts url parameters?",
+        "answer": ""
+      },{
+        "question": "How is a single route matched?",
+        "answer": ""
+      },{
+        "question": "How is the most specific route matched?",
+        "answer": ""
+      },{
+        "question": "Where can routes be defined?",
+        "answer": ""
+      },{
+        "question": "How do nested routes behave?",
+        "answer": ""
+      },{
+        "question": "Can routes be multi-nested?",
+        "answer": ""
+      },{
+        "question": "Which component sends users to a different component?",
+        "answer": ""
+      },{
+        "question": "How are users redirected?",
+        "answer": ""
+      },{
+        "question": "How can routes expose nested components",
+        "answer": ""
+      },{
+        "question": "",
+        "answer": ""
+      }
+      
+    ]
+  }
+
+
+  {
+    "topic": "",
+    "questions": [
+      {
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+]
