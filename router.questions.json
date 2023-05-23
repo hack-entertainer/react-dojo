@@ -4,37 +4,37 @@
     "questions": [
       {
         "question": "What is React Router?",
-        "answer": ""
+        "answer": "This library allows the creation of differentn routes in a React app. It determines what content to render based on the rul."
       },{
         "question": "How does React Router work?",
-        "answer": ""
+        "answer": "React router provides several components and utilities that permit the creation of routes, handle navigation, and rendering components based on route. It uses the history api to manipulate the url without reloading the page."
       },{
         "question": "Which package do we need to install to use React Router?",
-        "answer": ""
+        "answer": "react-router-dom installs this package."
       },{
         "question": "Which component do we need to wrap our app in to use React Router?",
-        "answer": ""
+        "answer": "The  BrowswerRouter component should wrap the app."
       },{
         "question": "How are Links added to an app?",
-        "answer": ""
+        "answer": "The link component is used to add a route to the app."
       },{
-        "question": "How are3 reloads prevented?",
-        "answer": ""
+        "question": "How are reloads prevented?",
+        "answer": "The Link component prevents reloads."
       },{
-        "question": "Who do <Link> components prevent?",
-        "answer": ""
+        "question": "What do <Link> components prevent?",
+        "answer": "Link compoments prevent page reloads."
       },{
         "question": "How are active links highlighted?",
-        "answer": ""
+        "answer": "The  NavLink  component highlights the active link. The activeClassName property is  used to set the class name of the active link."
       },{
         "question": "How are dynamic urls handled?",
-        "answer": ""
+        "answer": "A dynamic segment in the url can be used to pass teh value from the url to the target compoment."
       },{
         "question": "What are dynamic urls?",
-        "answer": ""
+        "answer": "Dynamic urls have variables or parameters in them, defined at request-time."
       },{
         "question": "How are dynamic urls enabled?",
-        "answer": ""
+        "answer": "Including a dynamic segmentenables a dynamic route, such as '/users/:id'"
       },{
         "question": "How are url parameters extracted?",
         "answer": ""
